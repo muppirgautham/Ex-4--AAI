@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME: M Gautham</H3>
 <H3>ENTER YOUR REGISTER NO: 212221230027</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE: 13/03/24</H3>
+<H3>DATE: 19/03/24</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
